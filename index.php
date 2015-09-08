@@ -2,7 +2,7 @@
 <html lang="et">
 <head>
     <meta charset="UTF-8">
-    <title>ProjectX</title>
+    <title>Project X</title>
 </head>
 <body>
 <img src="assets/img/banner.png" style="width:1350px;height:250px;" >
