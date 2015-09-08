@@ -21,7 +21,7 @@
     <li>Pirne</li>
 </ol>
 
-
+Täna  on <?php echo date("l jS \of F Y"); ?>
 
 
 </body>
