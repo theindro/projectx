@@ -7,14 +7,15 @@
             border: 1px solid black;
         }
     </style>
+    <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
     <title>Project X</title>
 </head>
 <body>
 <img src="assets/img/banner.png" style="width:1350px;height:250px;" >
 <hr>
 
-<a href="/index.php">Minust</a>
-<a href="/too2.php">Töö #2</a>
+<a href="/index.php"><span>Minust</span></a>
+<a href="/too2.php"><span>Töö #2</span></a>
 
 <br>
 <br>
