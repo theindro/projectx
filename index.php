@@ -53,6 +53,12 @@
     <li>Kompanii: Alfa-Kompanii</li>
 </ul>
 <h5>Hobid</h5>
+<ol>
+    <li>E-sport</li>
+    <li>Ujumine</li>
+    <li>Jalgpall</li>
+    <li>Jalgratta sõit</li>
+</ol>
 <h6>Kontakt</h6>
 <ol>
     <li>Nimi: Indro Malleus</li>
