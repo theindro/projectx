@@ -66,6 +66,7 @@
     <li>E-mail: indro.malleus@khk.ee</li>
     <li>Skype: indrolox</li>
 </ol>
+<hr>
 <!-- Lisan kuupäeva! -->
 Täna  on <?php echo date("l jS \of F Y"); ?>
 
