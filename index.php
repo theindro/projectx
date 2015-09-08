@@ -22,6 +22,7 @@
 <h1>Tere!</h1>
 <p>Minu nimi on Indro Malleus ja Te olete sattunud minu veebilehele.</p>
 <h2>Enesetutvustus</h2>
+<!-- Teen siia unordered listi -->
 <ul>
     <li>Olen 20 aastane noormees</li>
     <li>Pikkus 185cm</li>
@@ -65,7 +66,7 @@
     <li>E-mail: indro.malleus@khk.ee</li>
     <li>Skype: indrolox</li>
 </ol>
-
+<!-- Lisan kuupäeva! -->
 Täna  on <?php echo date("l jS \of F Y"); ?>
 
 
