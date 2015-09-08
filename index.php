@@ -20,6 +20,12 @@
     <li>Banaane</li>
     <li>Pirne</li>
 </ol>
+<h1>Tere!</h1>
+<h2>Enesetutvustus</h2>
+<h3>Haridustee</h3>
+<h4>Ajateenistus</h4>
+<h5>Hobid</h5>
+<h6>Kontakt</h6>
 
 Täna  on <?php echo date("l jS \of F Y"); ?>
 
