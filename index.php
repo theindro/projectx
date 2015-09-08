@@ -14,12 +14,6 @@
 <br>
 <br>
 
-<H1>Mulle meeldib süüa</H1>
-<ol>
-    <li>Õunu</li>
-    <li>Banaane</li>
-    <li>Pirne</li>
-</ol>
 <h1>Tere!</h1>
 <h2>Enesetutvustus</h2>
 <h3>Haridustee</h3>
