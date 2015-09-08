@@ -10,15 +10,22 @@
 <body>
 <img src="assets/img/banner.png" style="width:1350px;height:250px;" >
 <hr>
+<br>
 
-<a href="/index.php"><span>Minust</span></a>
-<a href="/too2.php"><span>Töö #2</span></a>
+<a href="/index.php"><span><div2>..:::Minust:::..</div2></span></a>
+<a href="/too2.php"><span><div2>..:::Link #2:::..</div2></span></a>
+<a href="/too3.php"><span><div2>..:::Link #3:::..</div2></span></a>
+<a href="/too4.php"><span><div2>..:::Link #4:::..</div2></span></a>
+<a href="/too5.php"><span><div2>..:::Link #5:::..</div2></span></a>
 
 <br>
 <br>
 
+<div>
 <h1>Tere!</h1>
 <p>Minu nimi on Indro Malleus ja Te olete sattunud minu veebilehele.</p>
+    </div>
+
 <h2>Enesetutvustus</h2>
 <!-- Teen siia unordered listi -->
 <ul>
@@ -27,6 +34,8 @@
     <li>Kaal 66kg</li>
     <li>Tähtkuju Jäär</li>
 </ul>
+
+<div>
 <h3>Haridustee</h3>
 <table>
     <tr>
@@ -45,12 +54,16 @@
         <td>2015-...</td>
     </tr>
 </table>
+    </div>
+
 <h4>Ajateenistus</h4>
 <ul>
     <li>1. oktoober 2014 - 30. mai 2015</li>
     <li>Väeosa: Kuperjanovi jalaväepataljon</li>
     <li>Kompanii: Alfa-Kompanii</li>
 </ul>
+
+<div>
 <h5>Hobid</h5>
 <ol>
     <li>E-sport</li>
@@ -58,6 +71,7 @@
     <li>Jalgpall</li>
     <li>Jalgratta sõit</li>
 </ol>
+    </div>
 <h6>Kontakt</h6>
 <ol>
     <li>Nimi: Indro Malleus</li>
