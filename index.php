@@ -27,6 +27,11 @@
 <h4>Ajateenistus</h4>
 <h5>Hobid</h5>
 <h6>Kontakt</h6>
+<ol>
+    <li>Nimi: Indro Malleus</li>
+    <li>E-mail: indro.malleus@khk.ee</li>
+    <li>Skype: indrolox</li>
+</ol>
 
 Täna  on <?php echo date("l jS \of F Y"); ?>
 
