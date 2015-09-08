@@ -3,10 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <style>
-        table, th, td {
-            border: 1px solid black;
-        }
-    </style>
+        </style>
     <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
     <title>Project X</title>
 </head>
