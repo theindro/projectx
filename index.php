@@ -2,6 +2,11 @@
 <html lang="et">
 <head>
     <meta charset="UTF-8">
+    <style>
+        table, th, td {
+            border: 1px solid black;
+        }
+    </style>
     <title>Project X</title>
 </head>
 <body>
@@ -24,6 +29,23 @@
     <li>Tähtkuju Jäär</li>
 </ul>
 <h3>Haridustee</h3>
+<table>
+    <tr>
+        <th>#</th>
+        <th>Kool</th>
+        <th>Aastad</th>
+    </tr>
+    <tr>
+        <td>1.</td>
+        <td>Tartu Karlova Gümnaasium</td>
+        <td>2002-2014</td>
+    </tr>
+    <tr>
+        <td>2.</td>
+        <td>Tartu Kutsehariduskeskus</td>
+        <td>2015-...</td>
+    </tr>
+</table>
 <h4>Ajateenistus</h4>
 <h5>Hobid</h5>
 <h6>Kontakt</h6>
