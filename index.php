@@ -47,6 +47,11 @@
     </tr>
 </table>
 <h4>Ajateenistus</h4>
+<ul>
+    <li>1. oktoober 2014 - 30. mai 2015</li>
+    <li>Väeosa: Kuperjanovi jalaväepataljon</li>
+    <li>Kompanii: Alfa-Kompanii</li>
+</ul>
 <h5>Hobid</h5>
 <h6>Kontakt</h6>
 <ol>
