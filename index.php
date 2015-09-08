@@ -15,6 +15,7 @@
 <br>
 
 <h1>Tere!</h1>
+<p>Minu nimi on Indro Malleus ja Te olete sattunud minu veebilehele.</p>
 <h2>Enesetutvustus</h2>
 <h3>Haridustee</h3>
 <h4>Ajateenistus</h4>
