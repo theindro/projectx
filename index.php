@@ -73,7 +73,7 @@
 <ol>
     <li>Nimi: Indro Malleus</li>
     <li>E-mail: indro.malleus@khk.ee</li>
-    <li>Skype: indrolox</li>
+    <li><img src="assets/img/skype.jpg" style="width: 50px; height:50px;" > indrolox</li>
 </ol>
 
     </span>

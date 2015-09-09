@@ -30,11 +30,13 @@ h6 {
 div {
     background-color: aliceblue;
     text-align: center;
-    height: 900px;
+    height: 1000px;
     width: 800px;
     border-radius: 10px;
     margin: auto;
-          }
+    background-repeat:none;
+    background-image:none;
+}
 
 table {
     margin-left: 265px;
