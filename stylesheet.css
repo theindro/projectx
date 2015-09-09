@@ -24,14 +24,26 @@ h5 {
 
 h6 {
     font-size: 20px; font-family: sans-serif;
-}
+    }
 
 div {
     background-color: aliceblue;
-        }
+    margin-left: 100px;
+    text-align: center;
+    height: 900px;
+    width: 800px;
+    border-radius: 10px;
+    margin: auto;
+          }
+
+table {
+    margin-left: 265px;
+    text-align: center;
+}
 
 span {
     color: black;
+    margin: auto;
 }
 
 div2 {
@@ -40,13 +52,44 @@ div2 {
     border-color: #81ffbc;
     background-color: aliceblue;
     text-decoration: none;
-    margin-left: 50px;
     padding-top: 6px;
     padding-right: 15px;
     padding-bottom: 6px;
     padding-left: 15px;
+    margin: auto;
+    margin-left: 115px;
     }
 
+div2:hover {
+    color: #37ccb6;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+}
+
 body {
-    background-color: lightgreen;
+    background-color: black;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+#kuu {
+    margin-left: 30px;
+    margin-top: 0px;
+    color: white;
+    text-align: left;
+    display:inline;
+}
+
+#pind {
+    display:inline;
+    text-align: right;
+    color: white;
+    margin-top: 0px;
+
+}
+
+
+p {
+    margin-left: 30px;
 }

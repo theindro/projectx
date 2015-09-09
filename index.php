@@ -8,7 +8,7 @@
     <title>Project X</title>
 </head>
 <body>
-<img src="assets/img/banner.png" style="width:1350px;height:250px;" >
+<img src="assets/img/banner.png" style="width:1346px;height:250px;" >
 <hr>
 <br>
 
@@ -22,9 +22,8 @@
 <br>
 
 <div>
-<h1>Tere!</h1>
+<br><h1>Tere!</h1>
 <p>Minu nimi on Indro Malleus ja Te olete sattunud minu veebilehele.</p>
-    </div>
 
 <h2>Enesetutvustus</h2>
 <!-- Teen siia unordered listi -->
@@ -35,7 +34,6 @@
     <li>Tähtkuju Jäär</li>
 </ul>
 
-<div>
 <h3>Haridustee</h3>
 <table>
     <tr>
@@ -54,7 +52,6 @@
         <td>2015-...</td>
     </tr>
 </table>
-    </div>
 
 <h4>Ajateenistus</h4>
 <ul>
@@ -63,7 +60,6 @@
     <li>Kompanii: Alfa-Kompanii</li>
 </ul>
 
-<div>
 <h5>Hobid</h5>
 <ol>
     <li>E-sport</li>
@@ -71,16 +67,19 @@
     <li>Jalgpall</li>
     <li>Jalgratta sõit</li>
 </ol>
-    </div>
+
 <h6>Kontakt</h6>
 <ol>
     <li>Nimi: Indro Malleus</li>
     <li>E-mail: indro.malleus@khk.ee</li>
     <li>Skype: indrolox</li>
 </ol>
+    </div>
 <hr>
 <!-- Lisan kuupäeva! -->
-Täna  on <?php echo date("l jS \of F Y"); ?>
+<p id="kuu"><?php echo date("l jS \of F Y"); ?></p>
+
+<p id="pind">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspRasmus Pind©</p>
 
 
 </body>
