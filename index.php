@@ -14,9 +14,9 @@
 
 <a href="index.php"><span><div2>..:::Minust:::..</div2></span></a>
 <a href="too2.php"><span><div2>..:::Link #2:::..</div2></span></a>
-<a href="too3.php"><span><div2>..:::Link #3:::..</div2></span></a>
-<a href="too4.php"><span><div2>..:::Link #4:::..</div2></span></a>
-<a href="too5.php"><span><div2>..:::Link #5:::..</div2></span></a>
+<a href="too2.php"><span><div2>..:::Link #3:::..</div2></span></a>
+<a href="too2.php"><span><div2>..:::Link #4:::..</div2></span></a>
+<a href="too2.php"><span><div2>..:::Link #5:::..</div2></span></a>
 
 <br>
 <br>
