@@ -13,15 +13,16 @@
 <br>
 
 <a href="index.php"><span><div2>..:::Minust:::..</div2></span></a>
-<a href="too2.php"><span><div2>..:::Link #2:::..</div2></span></a>
-<a href="too2.php"><span><div2>..:::Link #3:::..</div2></span></a>
-<a href="too2.php"><span><div2>..:::Link #4:::..</div2></span></a>
-<a href="too2.php"><span><div2>..:::Link #5:::..</div2></span></a>
+<a href="too2.php"><span><div2><span style="cursor:wait">..:::Link #2:::..</span></div2></span></a>
+<a href="too2.php"><span><div2><span style="cursor:not-allowed">..:::Link #3:::..</span></div2></span></a>
+<a href="too2.php"><span><div2><span style="cursor:not-allowed">..:::Link #4:::..</span></div2></span></a>
+<a href="too2.php"><span><div2><span style="cursor:not-allowed">..:::Link #5:::..</span></div2></span></a>
 
 <br>
 <br>
 
 <div>
+    <span style="cursor:crosshair">
 <br><h1>Tere!</h1>
 <p>Minu nimi on Indro Malleus ja Te olete sattunud minu veebilehele.</p>
 
@@ -54,7 +55,7 @@
 </table>
 
 <h4>Ajateenistus</h4>
-<ul>
+<ul class="a">
     <li>1. oktoober 2014 - 30. mai 2015</li>
     <li>Väeosa: Kuperjanovi jalaväepataljon</li>
     <li>Kompanii: Alfa-Kompanii</li>
@@ -74,6 +75,8 @@
     <li>E-mail: indro.malleus@khk.ee</li>
     <li>Skype: indrolox</li>
 </ol>
+
+    </span>
     </div>
 <hr>
 <!-- Lisan kuupäeva! -->
