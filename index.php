@@ -44,7 +44,7 @@
     </tr>
     <tr>
         <td>1.</td>
-        <td>Tartu Karlova Gümnaasium</td>
+        <td>Tartu Karlova Gümnaasium.</td>
         <td>2002-2014</td>
     </tr>
     <tr>
