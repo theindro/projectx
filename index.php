@@ -8,7 +8,7 @@
     <title>Project X</title>
 </head>
 <body>
-<img src="assets/img/banner.png" style="width:1346px;height:250px;" >
+<img src="assets/img/banner.png" style="max-width:100%; max-height:100%;" >
 <hr>
 <br>
 
